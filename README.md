@@ -6,7 +6,8 @@
 - Backend development and AI infrastructure
 
 ## 👨‍💻 What I am working on at the moment
-Developing a data oriented marketplace where people can provide a live data from different areas for LLM development. 
+Building a data lending protocol where data owners can supply their data from different areas into data pools and in return earn yield. 
+Consumers from their side can borrow this data and use it in LLM development, ML, data analysis and other areas that require verified, fresh data. 
 
 ## 🌐 Socials:
 **[Telegram](https://t.me/call_data)**\
