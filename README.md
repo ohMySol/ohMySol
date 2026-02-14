@@ -6,8 +6,8 @@
 - Backend development and AI infrastructure
 
 ## 👨‍💻 What I am working on at the moment
-Building a data lending protocol where data owners can supply their data from different areas into data pools and in return earn yield. 
-Consumers from their side can borrow this data and use it in LLM development, ML, data analysis and other areas that require verified, fresh data. 
+- Learnign Finance, DeFi yield strategies and their automatisation.
+- Building a payout system POC, based on USDC stable coin. The project should improve stable coins payment infrastructure and support operations like payroll, revenue distribution, or fund settlements.
 
 ## 🌐 Socials:
 **[Telegram](https://t.me/call_data)**\
