@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Anton
 
-**I’m a Blockchain Engineer, specializing in:**
-- Decentralized Finance (DeFi) protocol development
+**I’m a Smart Contract Engineer, specializing in:**
+- Decentralized Finance development and integration - Aave V3, Uniswap V2/V3, Morpho. Vault development, yield strategy automatisation.
 - Cross-chain infrastructure & interoperability solutions
-- Backend development and AI infrastructure
+- Backend development.
 
 ## 👨‍💻 What I am working on at the moment
 - Learnign Finance, DeFi yield strategies and their automatisation.
