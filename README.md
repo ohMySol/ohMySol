@@ -5,9 +5,9 @@
 - Cross-chain infrastructure & interoperability solutions
 - Backend development.
 
-## 👨‍💻 What I am working on at the moment
+## 👨‍💻 What I am working on
 - Learnign Finance, DeFi yield strategies and their automatisation.
-- Building a payout system POC, based on USDC stable coin. The project should improve stable coins payment infrastructure and support operations like payroll, revenue distribution, or fund settlements.
+- Trying myself with bots.
 
 ## 🌐 Socials:
 **[Telegram](https://t.me/call_data)**\
