@@ -45,19 +45,22 @@ Backend         FastAPI · PostgreSQL · Docker · Redis
 
 ## Selected projects
 
+### [eigen-auction](https://github.com/ohMySol/eigen-auction)
+EigenAuction is a system built on top of Uniswap v4 hooks and EigenLayer AVS that introduces an app-specific sequencing mechanism to reduce Loss-Versus-Rebalancing (LVR) for liquidity providers (LPs).
+
+Instead of allowing arbitrageurs to capture value through traditional blockspace competition and tips to block builders/proposers, EigenAuction redirects this flow into an off-chain arbitrage auction secured by EigenLayer. Arbitrageurs bid for the right to execute arbitrage, with proceeds partially redistributed to LPs.
+
+The auction winner receives top-of-block execution rights for the arbitrage opportunity.
+
 ### [erc4626-strategy-vault](https://github.com/ohMySol/erc4626-strategy-vault)
 ERC-4626 vault with a permissionless strategy marketplace. Morpho-style timelocks for risk-sensitive actions, role-based access (owner / curator / guardian / allocator), gasless deposits via ERC-2612 permit, and a performance fee model that splits yield between the protocol and strategy creators. Fuzz tested with Echidna.
 
 ### [uni-v4-limit-order-hook](https://github.com/ohMySol/uni-v4-limit-order-hook)
 Uniswap V4 hook implementing on-chain limit orders. Uses `beforeSwap` and `afterSwap` callbacks to match pending orders against pool price movements. *(Impermanent loss minimisation hook in progress.)*
 
-### [dex-arbitrage-scan-uni-sushi](https://github.com/ohMySol/dex-arbitrage-scan-uni-sushi)
-Arbitrage scanner that detects price imbalances between Uniswap and SushiSwap in real time.
-
 ### [panorama](https://github.com/ohMySol/panorama)
 A smart contract dependency analyzer that visualizes the entire dependency graph in a way that you can clearly see what your vault or pool or strategy depends on. It takes the Solidity contract address for the input and via the BFS (breadth-first search) algorithm builds a dependency graph where each node - is a separate external contract your requested address relies on.
 Useful in improving risk management, auditing and large codebases research.
-
 
 ---
 
