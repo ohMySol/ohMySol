@@ -44,8 +44,8 @@ Backend         FastAPI · Express.js · PostgreSQL · Docker · Redis
 
 ---
 
-## Win the next hackathons
-### Uniswap Hook Incubator Hackathon - 🥇 1st place for EigenAuction
+## Hackathons Winner
+### 2026 Uniswap Hook Incubator Hackathon - 🥇 1st place for EigenAuction
 - [X post](https://x.com/ohMySolboy/status/2070153326650417445?s=20)
 - [EigenAuction](https://github.com/ohMySol/eigen-auction)
 
