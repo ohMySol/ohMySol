@@ -1,15 +1,14 @@
 # Hey, I'm Anton 👋
 
-Smart Contract Engineer with 5+ years in software engineering, specialising in production DeFi for the last 3 years. Before going deep on Solidity, I built automated testing infrastructure and data pipelines at scale (Barclays, PyTest, 
-PySpark). Now I focus on protocol architecture, cross-chain messaging, and security - and I'm exploring where AI agents intersect with the DeFi ecosystem.
+Hi, I am a Smart Contract Engineer with 3 years in production DApp/DeFi, backed by 5+ years in software engineering across fintech and investment banking. Right now I specialise in DeFi infrastructure - designing protocols, optimising LP experience, and owning the full stack from smart contracts through to backend integrations and on-chain data pipelines.
 
-Currently finishing a Uniswap V4 hook focused on impermanent loss minimisation.
+Open to work and available immediately!
 
 ---
 
 ## What I build
 
-- **DeFi protocols and integrations** - vaults (ERC-4626, Morpho Vaults V1/V2), lending markets (Aave V3, Morpho Market), and DEX integrations (Uniswap V2 / V3 / V4 + hooks).
+- **DeFi protocols and integrations** - vaults (ERC-4626, Morpho Vaults V1/V2), lending markets (Aave V3, Morpho Market), DEX integrations (Uniswap V2 / V3 / V4 + hooks), EigenLayer AVS infrastructure.
 
 - **Cross-chain infrastructure** - production deployments using LayerZero OFT / OApp standards and Chainlink CCIP for multi-chain asset and message routing.
 
@@ -24,12 +23,13 @@ Currently finishing a Uniswap V4 hook focused on impermanent loss minimisation.
 ```
 Languages       Solidity (primary) · Yul · Python · TypeScript
 EVM             Memory / Storage / Calldata layout · Gas optimization · Inline assembly
-Standards       ERC-20 / 721 / 1155 / 1153 / 2612 / 4626
+Standards       ERC-20 / 721 / 712 / 1155 / 1153 / 2612 / 4626 / 6609
 Proxy patterns  Transparent Proxy · UUPS
 Cross-chain     LayerZero OFT / OApp · Chainlink CCIP
 Security        DeFi vulnerabilities prevention · Secure Solidity coding patterns · Auditing · Fuzzing
+Cryptography    ECDSA and BLS digital signatures
 Tooling         Foundry (preferred) · Hardhat · Echidna · Slither · Tenderly
-Backend         FastAPI · PostgreSQL · Docker · Redis 
+Backend         FastAPI · Express.js · PostgreSQL · Docker · Redis 
 ```
 
 ---
@@ -41,7 +41,15 @@ Backend         FastAPI · PostgreSQL · Docker · Redis
 | [$HAI OFT](https://basescan.org/address/0x7002987e5F63716273E77b51E12A578143C222aa#code) Migration | Ethereum · BSC · Base | Redesigned and migrated ~$6M market cap token to LayerZero OFT standard via UUPS upgradeable proxy. Preserved user balances using Merkle proof-based distribution. |
 | [Hacken Launchpool](https://basescan.org/address/0x03a6859d85e4f4b8c380ef7cc73f86ee7a9f3b76#code) | Base | Staking and reward distribution protocol integrated with the Hacken ecosystem. Built from scratch to mainnet. |
 | Vault-based Prediction Market | Ethereum | Prediction market protocol for Hacken Proof bug bounty platform. Chainlink price feeds + Uniswap for fair payout calculation. |
+
 ---
+
+## Win the next hackathons
+### Uniswap Hook Incubator Hackathon - 🥇 1st place for EigenAuction
+- [X post](https://x.com/ohMySolboy/status/2070153326650417445?s=20)
+- [EigenAuction](https://github.com/ohMySol/eigen-auction)
+
+
 
 ## Selected projects
 
