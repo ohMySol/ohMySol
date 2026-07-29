@@ -31,17 +31,6 @@ Cryptography    ECDSA and BLS digital signatures · Merkle Tree / Merkle Proof
 Tooling         Foundry (preferred) · Hardhat · Echidna · Slither · Tenderly
 Backend         FastAPI · Express.js · PostgreSQL · Docker · Redis 
 ```
-
----
-
-## Deployed on mainnet
-
-| Project | Chain | Description |
-|---|---|---|
-| [$HAI OFT](https://basescan.org/address/0x7002987e5F63716273E77b51E12A578143C222aa#code) Migration | Ethereum · BSC · Base | Redesigned and migrated ~$6M market cap token to LayerZero OFT standard via UUPS upgradeable proxy. Preserved user balances using Merkle proof-based distribution. |
-| [Hacken Launchpool](https://basescan.org/address/0x03a6859d85e4f4b8c380ef7cc73f86ee7a9f3b76#code) | Base | Staking and reward distribution protocol integrated with the Hacken ecosystem. Built from scratch to mainnet. |
-| Vault-based Prediction Market | Ethereum | Prediction market protocol for Hacken Proof bug bounty platform. Chainlink price feeds + Uniswap for fair payout calculation. |
-
 ---
 
 ## Hackathons Winner
