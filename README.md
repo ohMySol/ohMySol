@@ -27,7 +27,7 @@ Standards       ERC-20 / 721 / 712 / 1155 / 1153 / 2612 / 4626 / 6609
 Proxy patterns  Transparent Proxy · UUPS
 Cross-chain     LayerZero OFT / OApp · Chainlink CCIP
 Security        DeFi vulnerabilities prevention · Secure Solidity coding patterns · Auditing · Fuzzing
-Cryptography    ECDSA and BLS digital signatures
+Cryptography    ECDSA and BLS digital signatures · Merkle Tree / Merkle Proof
 Tooling         Foundry (preferred) · Hardhat · Echidna · Slither · Tenderly
 Backend         FastAPI · Express.js · PostgreSQL · Docker · Redis 
 ```
